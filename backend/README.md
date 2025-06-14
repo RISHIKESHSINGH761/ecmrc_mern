@@ -103,7 +103,7 @@ All protected endpoints require the `Authorization` header with a valid token.
 
 ## Contact
 
-For any queries or issues, please contact **Ashok Zarmariya** at `ashokzarmariya@gmail.com`.
+For any queries or issues, please contact **Rishikesh Kumar Singh** at `rishikeshsingh284@gmail.com`.
 
 ## License
 
