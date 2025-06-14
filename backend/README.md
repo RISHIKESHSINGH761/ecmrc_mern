@@ -107,6 +107,6 @@ For any queries or issues, please contact **Ashok Zarmariya** at `ashokzarmariya
 
 ## License
 
-This API is licensed under **Ashok Zarmariya**.
+This API is licensed under **Rishikesh Kumar Singh**.
 
 
